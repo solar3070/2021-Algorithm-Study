@@ -1,5 +1,3 @@
-# 첫 번째 풀기
-
 n, m, k = map(int, input().split())
 lst = list(map(int, input().split()))
 
