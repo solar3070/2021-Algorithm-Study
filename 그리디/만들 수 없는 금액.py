@@ -6,8 +6,8 @@ coin.sort()
 target = 1
 
 for x in coin:
-  if target < x:
-    break
-  target += x
+    if target < x:
+        break
+    target += x
 
 print(target)
